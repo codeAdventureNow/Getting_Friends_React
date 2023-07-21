@@ -1,6 +1,6 @@
 # Git Friends 
 
-This was one of the first projects where I accessed an API!
+This was one of the first projects where I accessed an API and mapped users dynamically!
 
 ## User Stories
 &check;  I can type in a git hub user name and their profile will show up along with their git hub friends.
