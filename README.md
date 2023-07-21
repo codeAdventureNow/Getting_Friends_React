@@ -10,11 +10,11 @@ This was one of the first projects where I accessed an API!
 &check;  Each subsequent search will replace the last round of profiles.
 
 ## Lessons Learned
-- Using libraries to simplify and speed up my workflow.
+- Async/Await to make API calls.
 
-- The basics of git hub flavored markdown.
-
-- Working with and modifying text area.
+- Mapping user profiles.
+  
+- use State to store objects and arrays.
 
 
 ## Getting Started
@@ -24,5 +24,5 @@ This was one of the first projects where I accessed an API!
 2.  npm run start
 3.  Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-   Check out the demo of [Markdown Previewr](https://markdown-react-markdown.vercel.app/).
+   Check out the demo of [Git Friends](https://getting-friends-react.vercel.app/).
 
