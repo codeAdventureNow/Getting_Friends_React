@@ -7,7 +7,7 @@ This was one of the first projects where I accessed an API!
 
 &check;  I can see the git hub users requested in a card with their profile name and link to their git hub profile.
 
-&check;  Each subsequent search will replace the last round of profiles.
+&check;  Each subsequent search will replace the last round of profile cards.
 
 ## Lessons Learned
 - Async/Await to make API calls.
